@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img {
+    height: 250px;
+    max-width: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+body {
+    color: #FFF;
+    padding: 50px 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    text-transform: uppercase;
+    font-size: 3rem;
+    padding: 20px 0;
+}
+
+.conteiner__main {
+    background-color: #FFF;
+    max-width: 600px;
+    border-radius: 20px;
+    padding: 60px;
+    margin: 0 auto;
+    box-shadow: 1px 1px 3px 3px #00000018;
+}
+
+.hours {
+    color: black;
+    font-size: 1.5rem;
+    padding-bottom: 20px;
+}
+
+.copyright {
+    margin-top: 50px;
+}
+
